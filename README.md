@@ -5,6 +5,10 @@ This project analyzes sales and order data for a fictional pizza store using SQL
 
 The goal is to demonstrate SQL data exploration and reporting on transactional data.
 
+## 🖼️ ER Diagram
+
+![ER Diagram](images/er-diagram.png)
+
 ## 🗂️ Files Included
 - `orders.csv` – Order-level data  
 - `order_details.csv` – Line-item order breakdown  
